@@ -1,0 +1,23 @@
+Quartus II 64-Bit
+Version 9.1 Build 222 10/21/2009 SJ Full Version
+10
+805
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# complete
+
